@@ -1,0 +1,8 @@
+*.sh
+service-account-file.json
+
+.tfstate*
+
+.terraform
+.terraform*
+.terraform/
